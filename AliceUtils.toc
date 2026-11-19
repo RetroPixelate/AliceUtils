@@ -1,0 +1,10 @@
+## Interface: 16001
+## Title: AliceUtils
+## Notes: A WoW Forever addon implementing a collection of utilities that I find helpful.
+## Author: Jam
+## Version: 0.0.1
+## RequiredDeps:
+## X-Curse-Project-ID: 999999
+## SavedVariables:
+## SavedVariablesPerCharacter:
+AliceUtils.lua
