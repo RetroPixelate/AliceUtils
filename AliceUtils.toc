@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Interface: 16001
 ## Title: AliceUtils
 ## Notes: A WoW Forever addon implementing a collection of utilities that I find helpful.
@@ -8,4 +9,16 @@
 ## SavedVariables:
 ## SavedVariablesPerCharacter: AliceUtilsDB
 
+=======
+## Interface: 16001
+## Title: AliceUtils
+## Notes: A WoW Forever addon implementing a collection of utilities that I find helpful.
+## Author: Jam
+## Version: 1.0.0
+## RequiredDeps:
+## X-Curse-Project-ID: 999999
+## SavedVariables:
+## SavedVariablesPerCharacter: AliceUtilsDB
+
+>>>>>>> 798b6f24ff0d7f2ce4bdbbb72f822269dc586baf
 AliceUtils.lua
